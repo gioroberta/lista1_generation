@@ -1,6 +1,10 @@
 const prompt = require("readline-sync");
 
+<<<<<<< Updated upstream
 // 1) FOR Escreva um algoritmo, que leia 2 números inteiros via teclado, onde o primeiro número deve ser menor 
+=======
+// 1) DO Escreva um algoritmo, que leia 2 números inteiros via teclado, onde o primeiro número deve ser menor 
+>>>>>>> Stashed changes
 // do que o segundo número. Caso contrário, deve ser exibida uma mensagem na tela 
 // informando que o intervalo é inválido e sair do programa. 
 // No intervalo informado, mostre na tela todos os números que são múltiplos de 3 e 5. 
@@ -63,12 +67,16 @@ do {
 console.log(`A soma de todos os números digitados positivos é: ${contador}`)
 */
 
+<<<<<<< Updated upstream
 // 4)VETORES Dado um vetor contendo 10 números inteiros não ordenados e não repetidos, 
+=======
+// 4) VETORES Dado um vetor contendo 10 números inteiros não ordenados e não repetidos, 
+>>>>>>> Stashed changes
 // construa um algoritmo que consiga pesquisar dados no vetor, onde o usuário irá digitar um número 
 // e o programa deve exibir na tela a posição deste número no vetor. 
 // Caso o número não seja encontrado, a mensagem: “Não foi encontrado!” deve ser exibida na tela.
 
-
+/*
 let vetor = [2, 5, 1, 3, 4, 9, 7, 8, 10, 6];
 
 let numero = prompt.questionInt("Digite o numero que voce deseja encontrar: ");
@@ -84,7 +92,7 @@ for (let i = 0; i < vetor.length; i++) {
         if (encontrado === false) {
             console.log(`O número ${numero} não foi encontrado.`);
         }
-
+*/
 
 
 
